@@ -1,0 +1,24 @@
+.conteudo-projetos {
+  margin-top: 30px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.container-conteudo li {
+  margin-bottom: 10px;
+  width: 450px;
+}
+
+.conteudo-projetos a{
+  color: yellow;
+}
+
+.conteudo-projetos a:hover,
+.conteudo-projetos a:focus {
+  border-bottom: none;
+  color: #fff;
+}
+
+.conteudo-projetos img {
+  width: 300px;
+}

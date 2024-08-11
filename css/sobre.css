@@ -1,0 +1,9 @@
+h1 {
+  margin-bottom: 50px;
+}
+
+.container-conteudo h1,
+.container-conteudo p {
+  color: #ffffff;
+  line-height: 40px;
+}
